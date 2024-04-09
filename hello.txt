@@ -1,0 +1,5 @@
+I made a directory called PLPBasicGitAssignment
+I opened the command line and moved to the directory
+I did a git init
+I did git add .
+I then git commit -m "hello"
